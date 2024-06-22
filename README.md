@@ -34,6 +34,6 @@
 
 - El prefijo $ se utiliza para crear cadenas interpoladas, donde se pueden incluir expresiones dentro de llaves {} que serán evaluadas y sus resultados insertados en la cadena.
 
-######W Combinación de @ y $ (Literal y Interpolada)
+###### Combinación de @ y $ (Literal y Interpolada)
 
 - Es posible combinar ambos prefijos @$ o $@ para crear una cadena que sea tanto literal como interpolada. Esto permite que las expresiones dentro de {} sean evaluadas mientras que las secuencias de escape se interpretan literalmente.
