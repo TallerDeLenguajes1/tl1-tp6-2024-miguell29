@@ -6,6 +6,7 @@
         string input;
         Boolean salir = false;
         Console.Clear();
+        
         do
         {
             Console.WriteLine("--------------->");
